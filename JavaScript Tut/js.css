@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto&display=swap');
+body{
+    font-family: Roboto;
+}
+#calculate{
+    border:  2px solid aqua;
+    border-radius: 5px;
+}
+#show{
+    border: 2px solid black;
+    border-radius: 6px;
+    background-color: aquamarine;
+    color: black;
+}
